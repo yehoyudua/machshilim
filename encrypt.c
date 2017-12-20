@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <malloc.h>
 #include <time.h>  
-#include <math.h>  
+
 
 void shrinkImage(const unsigned char* inImage, unsigned char* outImage, unsigned int width, unsigned int height);
 void binaryImage(unsigned char* image, unsigned int width, unsigned int height);
